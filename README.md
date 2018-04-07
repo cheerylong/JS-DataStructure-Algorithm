@@ -10,7 +10,7 @@
 
 ## 算法
 
-- [排序] (./js-sort/bubbleSort.js)
+- [排序](./js-sort/bubbleSort.js)
 
 
 
